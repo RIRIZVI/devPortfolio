@@ -1,0 +1,7 @@
+{
+  "name": "Ri Rizvi | Developer Portfolio",
+  "description": "A high-performance, dynamic developer portfolio for Ri Rizvi featuring an AI-powered project assistant and interactive skill visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
